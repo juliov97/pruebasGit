@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 78 79.88">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Montserrat-Bold, Montserrat;
+        font-size: 12px;
+        font-weight: 700;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+        stroke: #272525;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-3 {
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="OBJECTS">
+    <g>
+      <rect class="cls-3" x="1" y="1" width="76" height="46.68" rx="4.09" ry="4.09"/>
+      <g>
+        <rect class="cls-2" x="35.29" y="19.6" width="7.42" height="13.54"/>
+        <rect class="cls-2" x="35.29" y="34.84" width="7.42" height="2.72"/>
+        <polygon class="cls-2" points="38.96 11.55 35.29 17.91 42.64 17.91 38.96 11.55"/>
+        <line class="cls-2" x1="37.13" y1="14.73" x2="40.8" y2="14.73"/>
+        <line class="cls-2" x1="39" y1="19.6" x2="39" y2="33.15"/>
+      </g>
+      <path class="cls-2" d="m26.2,41.86H7.63c-.97,0-1.76-.79-1.76-1.76V8.1c0-.97.79-1.76,1.76-1.76h24.57"/>
+      <path class="cls-2" d="m51.87,41.86h18.57c.97,0,1.76-.79,1.76-1.76V8.1c0-.97-.79-1.76-1.76-1.76h-24.57"/>
+      <rect class="cls-3" x="27.87" y="56.94" width="24" height="4.22" rx="1.04" ry="1.04"/>
+      <line class="cls-3" x1="39.87" y1="56.94" x2="39.87" y2="47.68"/>
+    </g>
+    <text class="cls-1" transform="translate(3.49 76.69)"><tspan x="0" y="0">Julio Millán</tspan></text>
+  </g>
+</svg>
